@@ -1,6 +1,6 @@
 ![M Shabraj Shahid · Full-stack developer · British Columbia, Canada](assets/profile-banner.svg)
 
-I build **web apps for work and 3D worlds for fun**. I studied Computer Science with a minor in Psychology at the University of British Columbia. I like projects that let me put both to use.
+I’m a **full-stack software developer** who takes features from design to production. I’ve shipped user-facing features and APIs for e-commerce and real estate platforms, with automated tests and production telemetry to catch issues early. I studied Computer Science at the University of British Columbia with a minor in Psychology.
 
 [**Portfolio ↗**](https://www.mshabrajshahid.com) · [**Résumé ↗**](https://www.mshabrajshahid.com/resume.pdf) · [**LinkedIn ↗**](https://www.linkedin.com/in/m-shabraj-shahid-6574b1209)
 
