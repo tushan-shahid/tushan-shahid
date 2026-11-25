@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="300" viewBox="0 0 1120 300" role="img" aria-labelledby="title">
+  <title id="title">M Shabraj Shahid · Full-stack developer · British Columbia, Canada</title>
+  <defs>
+    <linearGradient id="background" x2="100%" y2="100%">
+      <stop stop-color="#0d1526"/>
+      <stop offset=".57" stop-color="#11142a"/>
+      <stop offset="1" stop-color="#1d1735"/>
+    </linearGradient>
+    <radialGradient id="glow" cx=".82" cy=".48" r=".48">
+      <stop stop-color="#513b91" stop-opacity=".44"/>
+      <stop offset="1" stop-color="#513b91" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="route" x2="100%" y2="100%">
+      <stop stop-color="#5de9ef"/>
+      <stop offset="1" stop-color="#b994ff"/>
+    </linearGradient>
+    <linearGradient id="map-fade" x2="100%" y2="0%">
+      <stop stop-color="#000"/>
+      <stop offset=".55" stop-color="#fff"/>
+      <stop offset=".95" stop-color="#fff"/>
+      <stop offset="1" stop-color="#888"/>
+    </linearGradient>
+    <pattern id="dots" width="18" height="18" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#a7a5d3" opacity=".26"/>
+    </pattern>
+    <clipPath id="frame">
+      <rect x="1" y="1" width="1118" height="298" rx="22"/>
+    </clipPath>
+    <mask id="fade">
+      <rect x="600" width="520" height="300" fill="url(#map-fade)"/>
+    </mask>
+    <path id="contour" d="M695 165C654 143 672 109 721 87c41-19 65-16 102-42C864 17 910 14 953 33c36 16 48 45 87 63 40 19 74 36 65 71-10 39-63 43-101 65-42 24-60 44-110 41-46-3-67-29-103-42-47-17-63-48-96-66Z"/>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1120" height="300" fill="url(#background)"/>
+    <rect width="1120" height="300" fill="url(#glow)"/>
+    <g mask="url(#fade)">
+      <rect x="600" width="520" height="300" fill="url(#dots)"/>
+      <g fill="none" stroke="#a29ae0" stroke-width="1.2" opacity=".42">
+        <use href="#contour" transform="translate(-448 -75) scale(1.5)"/>
+        <use href="#contour" transform="translate(-340 -57) scale(1.38)"/>
+        <use href="#contour" transform="translate(-233 -39) scale(1.26)"/>
+        <use href="#contour" transform="translate(-125 -21) scale(1.14)"/>
+        <use href="#contour" transform="translate(-18 -3) scale(1.02)"/>
+        <use href="#contour" transform="translate(90 15) scale(.90)"/>
+        <use href="#contour" transform="translate(197 33) scale(.78)"/>
+        <use href="#contour" transform="translate(305 51) scale(.66)"/>
+        <use href="#contour" transform="translate(412 69) scale(.54)"/>
+        <use href="#contour" transform="translate(520 87) scale(.42)"/>
+      </g>
+    </g>
+
+    <g stroke-linejoin="round">
+      <path d="M773 210l106-60 135 58-106 65Z" fill="#161b35" fill-opacity=".87" stroke="#6d639f"/>
+      <path d="M773 210l135 63 106-65v10l-106 65-135-63Z" fill="#13182c" stroke="#6d639f"/>
+      <path d="M834 159l62-36 66 30-61 36Z" fill="#59508b" stroke="#c4b2fa"/>
+      <path d="M834 159l67 30v55l-67-30Z" fill="#242846" stroke="#9d91d0"/>
+      <path d="M901 189l61-36v55l-61 36Z" fill="#372b59" stroke="#b098e8"/>
+      <path d="M863 119l33-19 35 16-33 19Z" fill="#6a73a8" stroke="#b7ccf6"/>
+      <path d="M863 119l35 16v36l-35-16Z" fill="#303656" stroke="#a9a8e1"/>
+      <path d="M898 135l33-19v36l-33 19Z" fill="#473b6c" stroke="#c4b2fa"/>
+      <path d="M896 100V58" fill="none" stroke="#9d99d1" stroke-dasharray="3 5"/>
+      <path d="M743 235l53-31 51 23 42-25 35 16 62-37 44 19 39-24" fill="none" stroke="#23203b" stroke-width="6"/>
+      <path d="M743 235l53-31 51 23 42-25 35 16 62-37 44 19 39-24" fill="none" stroke="url(#route)" stroke-width="3"/>
+      <g fill="#13172c" stroke-width="2.5">
+        <circle cx="743" cy="235" r="5" stroke="#5de9ef"/>
+        <circle cx="847" cy="227" r="5" stroke="#75ddf3"/>
+        <circle cx="924" cy="218" r="5" stroke="#9ac5ff"/>
+        <circle cx="986" cy="181" r="5" stroke="#abafff"/>
+        <circle cx="1069" cy="176" r="5" stroke="#b994ff"/>
+      </g>
+      <circle cx="896" cy="56" r="11" fill="#71eced" opacity=".16"/>
+      <circle cx="896" cy="56" r="4.5" fill="#aaf9fa"/>
+    </g>
+
+    <path d="M57 61h46" stroke="#65e6ec" stroke-width="3" stroke-linecap="round"/>
+    <text x="55" y="137" fill="#f3f5ff" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="67" font-weight="750" letter-spacing="-2.3">M Shabraj Shahid</text>
+    <text x="58" y="190" fill="#baf2f7" font-family="ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace" font-size="31" font-weight="600">Full-stack developer</text>
+    <text x="58" y="239" fill="#c5c0df" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="24">British Columbia, Canada</text>
+  </g>
+
+  <rect x="1" y="1" width="1118" height="298" rx="22" fill="none" stroke="#786ba2" stroke-opacity=".72" stroke-width="2"/>
+</svg>
